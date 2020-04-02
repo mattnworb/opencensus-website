@@ -104,7 +104,7 @@ service Fetch {
 The source code below and the pom.xml file will be used to generate the service
 Please place the server code in file `src/main/java/io/octutorials/ocgrpc/TutorialServer.java`.
 
-{{<tabs Server_code pom_mxl>}}
+{{<tabs Server_code pom_xml>}}
 {{<highlight java>}}
 package io.octutorials.ocgrpc;
 
